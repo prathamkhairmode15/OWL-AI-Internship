@@ -21,5 +21,3 @@ The repository emphasizes clarity, maintainability, and logical design rather th
 - **Libraries / Frameworks:** Flask, Django, REST API's  
 
 > Note: Technologies listed here are strictly based on actual usage in the repository.
-
-## 📂 Repository Structure
